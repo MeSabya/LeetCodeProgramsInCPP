@@ -1,0 +1,4 @@
+git add <filename>
+git commit -m "msg"
+git remote add origin https://github.com/MeSabya/LeetCodeProgramsInCPP.git
+git push -u origin master
