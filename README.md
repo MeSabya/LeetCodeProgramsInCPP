@@ -7,3 +7,6 @@
 
 ## Two Pointer Problem
 1. [container-with-most-water](https://leetcode.com/problems/container-with-most-water/solutions/1915172/java-c-easiest-explanations/)
+
+## DynamicProgramming
+1. [longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/889627446/)
